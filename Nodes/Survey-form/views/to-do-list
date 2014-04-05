@@ -1,0 +1,5 @@
+1) When user types in survey page http, have listener send survey page to view.
+2) Have user fill out form and submit.
+3) Have program listening for submit and when it occurs, save user info to session.
+4) Take user info and send info back to a new view page.
+5) Render new page of user info.
